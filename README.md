@@ -40,7 +40,7 @@
   - Machine vs Machine
 * Easy to modify.
 * Cross-Platform
-  - Windows, macOS and Linux.
+  - Windows, MacOS and Linux.
 
 ## Requirements
 * g++
