@@ -46,7 +46,7 @@
 * g++
 * git (optional)
 
-## Install & Run
+## Compile & Run
 To **clone** and **compile** this game, you will need to have **git** and **g++** installed on your computer.<br>
 From your command line:
 
