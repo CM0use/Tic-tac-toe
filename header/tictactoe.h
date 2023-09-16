@@ -1,6 +1,7 @@
 /**
- ** This file is part of https://github.com/CM0use/Tic-tac-toe
- ** Copyright 2023 CM0use <dilanuzcs@gmail.com>.
+ ** This file is part of Tic-tac-toe project
+ ** Copyright 2023 CM0use dilanuzcs@gmail.com
+ ** URL: https://github.com/CM0use/Tic-tac-toe
  **
  ** This program is free software: you can redistribute it and/or modify
  ** it under the terms of the GNU General Public License as published by
