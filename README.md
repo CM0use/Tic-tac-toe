@@ -52,7 +52,7 @@ cd Tic-tac-toe
 g++ -O2 -std=c++2a src/main.cpp src/tictactoe.cpp -o tictactoe
 ```
 
-Run on **MacOS & Linux**:
+Run on **macOS & Linux**:
 ```bash
 ./tictactoe
 ```
